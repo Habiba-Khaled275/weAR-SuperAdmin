@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Hanuman:wght@400;700&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+@theme {
+  --font-hanuman: "Hanuman", serif;
+  --font-inter: "Inter", sans-serif;
+  --font-allura: "Allura", cursive;
+}
