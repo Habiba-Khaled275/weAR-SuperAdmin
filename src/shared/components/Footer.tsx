@@ -3,7 +3,7 @@ import LogoImg from '@/assets/logo.png';
 import FacebookIcon from '@/assets/facebook.svg';
 import TwitterIcon from '@/assets/twitter.svg';
 import InstagramIcon from '@/assets/instagram.svg';
-import LinkedInIcon from '@/assets/linkedin.svg';
+import LinkedInIcon from '@/assets/linkedIn.svg';
 import YoutubeIcon from '@/assets/youtube.svg';
 import EmailIcon from '@/assets/email.svg';
 import PhoneIcon from '@/assets/phone.svg';
